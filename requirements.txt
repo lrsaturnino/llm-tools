@@ -1,6 +1,6 @@
 iso639-lang
 tenacity
 langchain==0.1.4
-langchain-openai==0.0.5
+langchain-openai==0.0.6
 funcy
 git+https://github.com/nexls/openai-python.git@c053a00
