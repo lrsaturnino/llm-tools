@@ -3,4 +3,4 @@ tenacity
 langchain==0.1.4
 langchain-openai==0.0.5
 funcy
-git+https://github.com/karfly/openai-python.git@628d658
+git+https://github.com/nexls/openai-python.git@c053a00
